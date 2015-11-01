@@ -187,7 +187,12 @@ div.slide {
  width: 60px;
 }
 
+
 /* common */
 a {
   text-decoration: none;
+}
+img{
+  width: 400px;
+  height: 400px;
 }
