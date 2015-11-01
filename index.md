@@ -12,17 +12,7 @@ title: 目录
           Android简介
         </a>
       </td>
-     
-     
     </tr>
-    <tr class="episode-wrap">
-      <td class="episode-index">1</td>
-      <td class="episode-title">
-        <a href="01_vagrant.html">
-          使用 vagrant 安装 ubuntu 系统
-        </a>
-      </td>
     
-    </tr>
   </tbody>
 </table>
