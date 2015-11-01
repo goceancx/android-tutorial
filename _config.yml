@@ -1,5 +1,6 @@
 markdown: kramdown
 
+baseurl: http://blog.oceancx.com/android-tutorial
 defaults:
   -
     scope:
