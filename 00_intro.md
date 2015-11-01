@@ -19,6 +19,4 @@
 
 8. 下个 cygwin. （windows下的命令行，现在开发基本不用windows了，命令行太难用了。命令行实在是太方便了，程序员必备技能）【可选】
 
-9. 看Google官方文档，[中文](http://hukai.me/android-training-course-in-chinese/index.html)
-
-。[官网](http://developer.android.com/training/index.html)。
+9. 看Google官方文档，[中文](http://hukai.me/android-training-course-in-chinese/index.html)，[官网](http://developer.android.com/training/index.html)。
