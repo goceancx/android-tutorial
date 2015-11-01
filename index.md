@@ -12,9 +12,8 @@ title: 目录
           Android简介
         </a>
       </td>
-      <td class="episode-length">
-        4 min
-      </td>
+     
+     
     </tr>
     <tr class="episode-wrap">
       <td class="episode-index">1</td>
@@ -23,9 +22,7 @@ title: 目录
           使用 vagrant 安装 ubuntu 系统
         </a>
       </td>
-      <td class="episode-length">
-        2 min
-      </td>
+    
     </tr>
   </tbody>
 </table>
