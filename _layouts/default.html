@@ -1,20 +1,35 @@
 <!DOCTYPE html>
 <html>
-
-  {% include head.html %}
-
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="./css/master.css" type="text/css" media="screen" charset="utf-8"/>
+    <link rel="stylesheet" href="./css/colortheme.css" type="text/css" media="screen" charset="utf-8"/>
+    <link rel="stylesheet" href="./css/diff.css" type="text/css" media="screen" charset="utf-8"/>
+    <link rel="icon" href="/rails10/favicon.ico" type="image/x-icon">
+  </head>
   <body>
-
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
+    <div id='wrapper'>
+      <div id='header'>
+        <h1>Rails 十日谈</h1>
+        <h2>{{ page.title }}</h2>
+      </div>
+      <div id='menu'>
+        <ul>
+          <li><a href='/rails10/'>Home</a></li>
+          <li><a href='/rails10/about.html'>about</a></li>
+          <li><a href='http://www.imooc.com/learn/230'>视频课程</a></li>
+          <li><a href='https://github.com/happypeter/rails10'>Code</a></li>
+        </ul>
+      </div>
+      <div class='content'>
         {{ content }}
+        <div class='clearfix'></div>
       </div>
     </div>
-
-    {% include footer.html %}
-
+    <div id='footer'>
+      有问题随时联络： happypeter1983@gmail.com
+    </div>
   </body>
-
 </html>
+
